@@ -1,4 +1,4 @@
-# Olá, sou o [rafael/rafa]! 👋
+# Olá, sou o rafael/rafa
 
 Atualmente focado em construir aplicações web robustas e escaláveis, Adoro transformar ideias em código e aprender novas formas de otimizar o desenvolvimento.
 
