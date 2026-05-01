@@ -1,4 +1,4 @@
-# Olá, sou o rafael/rafa
+# olá me chamo rafael
 
 Atualmente focado em construir aplicações web robustas e escaláveis, adoro transformar ideias em código e aprender novas formas de otimizar o desenvolvimento.
 
